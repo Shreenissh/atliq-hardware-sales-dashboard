@@ -62,15 +62,7 @@ It provides interactive insights into **revenue trends, sales quantities, top cu
 
 ---
 
-## 🚀 Future Improvements
-- Add **profit margin analysis** alongside revenue.  
-- Integrate **forecasting models** for future sales prediction.  
-- Create **customer segmentation** based on revenue contribution and frequency.  
-- Add **drill-through pages** for deeper city-wise and product-wise analysis.  
-
----
-
 ## 🛠 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/atliq-hardware-sales-dashboard.git
+   git clone https://github.com/shreenissh/atliq-hardware-sales-dashboard.git
